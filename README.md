@@ -1,6 +1,6 @@
 # edgistify-1
  
-#Assignment 1:
+# ASSIGNMENT 1:
 
 num = int(input("Enter number of files: "))
 l = []
@@ -13,7 +13,7 @@ if(k == 1):
 for i in range(num):
         print("Books name: ",l[i])
 
-#Assignment 2:
+# ASSIGNMENT 2:
 
 # This Python 3 environment comes with many helpful analytics libraries installed
 # It is defined by the kaggle/python Docker image: https://github.com/kaggle/docker-python
@@ -87,7 +87,7 @@ from sklearn.metrics import accuracy_score
 print ("Accuracy : ", accuracy_score(y_test, y_pred)) 
 
 
-#Assignment 3:
+#ASSIGNMENT 3:
 
 import tensorflow as tf
 
